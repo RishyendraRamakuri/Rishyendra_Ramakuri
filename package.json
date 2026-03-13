@@ -1,6 +1,1 @@
-{
-  "dependencies": {
-    "date-fns": "^3.6.0",
-    // other dependencies
-  }
-}
+{"name": "your-package-name", "version": "15.2.5", "description": "A brief description of your package.", "main": "index.js", "scripts": {}, "repository": {}, "keywords": [], "author": "", "license": "ISC"}
